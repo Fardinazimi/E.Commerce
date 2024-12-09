@@ -16,3 +16,10 @@ a.active hr {
   font-weight: 400;
   font-style: normal;
 }
+/* in media q we adde the background color for the hambarger menu */
+@media (max-width: 640px) {
+  a.active {
+    background-color: black;
+    color: white;
+  }
+}
