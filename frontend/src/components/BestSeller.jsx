@@ -23,9 +23,6 @@ const BestSeller = () => {
                     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, optio?
                 </p>
 
-                <h2>Hello Fardin</h2>
-                {/* this code is just for pushing the code in new branch  */}
-
             </div>
 
 
